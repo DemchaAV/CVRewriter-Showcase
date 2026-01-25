@@ -12,45 +12,45 @@ The project combines **Spring Boot (backend)**, **React (frontend)**, web-scrapi
 Paste a LinkedIn or Indeed job link → AI analyzes requirements → Generates a tailored PDF resume in seconds.
 
 <p align="center">
-  <img src="screenshots/06_processing.png" alt="Processing vacancy link" width="500"/>
+  <img src="06_processing.png" alt="Processing vacancy link" width="500"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/07_complete.png" alt="Processing complete" width="500"/>
+  <img src="07_complete.png" alt="Processing complete" width="500"/>
 </p>
 
 ### History & Records Management
 View all your processed vacancies with status tracking (Queued, Completed, Applied, Rejected).
 
 <p align="center">
-  <img src="screenshots/01_history.png" alt="History page" width="800"/>
+  <img src="01_history.png" alt="History page" width="800"/>
 </p>
 
 Edit vacancy details, load descriptions from links, and manage application status.
 
 <p align="center">
-  <img src="screenshots/02_edit_record.png" alt="Edit record modal" width="400"/>
+  <img src="02_edit_record.png" alt="Edit record modal" width="400"/>
 </p>
 
 ### CV Editor
 Edit AI-generated CV sections: Technical Skills, Education, Work Experience. Add, remove, or modify items before generating the final PDF.
 
 <p align="center">
-  <img src="screenshots/03_cv_editor.png" alt="CV Editor" width="700"/>
+  <img src="03_cv_editor.png" alt="CV Editor" width="700"/>
 </p>
 
 ### Regenerate Feature
 Not satisfied with the result? Use the **Regenerate** feature with optional additional instructions to refine your CV.
 
 <p align="center">
-  <img src="screenshots/04_regenerate.png" alt="Regenerate CV" width="700"/>
+  <img src="04_regenerate.png" alt="Regenerate CV" width="700"/>
 </p>
 
 ### Profile Settings
 Manage your CV profile, account settings, and external integrations.
 
 <p align="center">
-  <img src="screenshots/05_profile.png" alt="Profile settings" width="600"/>
+  <img src="05_profile.png" alt="Profile settings" width="600"/>
 </p>
 
 ---
