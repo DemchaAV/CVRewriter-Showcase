@@ -1,4 +1,8 @@
-# CVRewriter 🚀
+# CVRewriter Showcase
+
+Public showcase for CVRewriter — an AI-powered CV tailoring application built with Spring Boot, React, Playwright, JWT, SSE, Docker, and custom PDF generation.
+
+Note: this repository is a product showcase and architecture overview. The production codebase is private.
 
 **CVRewriter** is a full-stack application for **analyzing job vacancy links and generating tailored CVs (PDF)** automatically.  
 
