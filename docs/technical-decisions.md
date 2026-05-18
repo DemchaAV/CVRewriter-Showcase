@@ -151,4 +151,4 @@ A regex-based fallback (`extractCvJsonBlock`) is retained for the edge case wher
 
 **Why**: solo project, one deploy target, no team to coordinate around merge gates. Adding CI/CD without a real need creates ceremony without value.
 
-**Trade-offs**: the first thing to add when more people contribute. This is the largest known gap in the operational story (see [future-improvements.md](future-improvements.md)).
+**Trade-offs**: the first thing to add as soon as the project grows beyond solo development. This is the largest known gap in the operational story (see [future-improvements.md](future-improvements.md)).
