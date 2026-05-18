@@ -91,9 +91,9 @@ This is a **showcase repository**. The production codebase is private. The follo
 
 ### Internal artifacts
 
-- No internal task boards (`TASK_BOARD.md`, `TASK_BOARD_UI.md`, `TASK_BOARD_DETAILS/`).
-- No agent-orchestration scaffolding (`CLAUDE.md`, `AGENTS.md`, `AGENT_RULES.md`, `.claude/`, `.agents/`, `.ai-dev/`).
-- No private development notes or planning docs.
+- No internal task boards, planning notes, or roadmap details.
+- No private development tooling configuration.
+- No internal automation rules or workflow scaffolding.
 
 ### Personally identifying data — what's in the screenshots
 

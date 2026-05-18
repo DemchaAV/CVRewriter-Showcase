@@ -14,7 +14,7 @@ Currently the project has no CI. Building, testing, and image publishing are all
 - Image build + push to a registry on main.
 - Migration verification: spin up MySQL, run all Flyway migrations, fail if anything is wrong.
 
-The reason this hasn't been done yet is real (single-developer project, no merge gates needed). The reason to do it is also real: the day a contributor joins, the lack of CI is the biggest friction point.
+The reason this hasn't been done yet is real (solo project, no merge gates needed). The reason to do it is also real: as soon as the project grows beyond a single developer, the lack of CI is the biggest friction point.
 
 ### Rate limiting on the heavy endpoints
 
